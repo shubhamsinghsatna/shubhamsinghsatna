@@ -1,5 +1,3 @@
-### Hi there 👋
-
 👋 Hi, I’m @shubhamsinghsatna
 👀 I’m interested in Java Backend programming and Native Android Development
 🌱 I’m currently learning RESTful API Using Springboot
