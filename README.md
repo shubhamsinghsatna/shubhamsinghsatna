@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+👋 Hi, I’m @shubhamsinghsatna
+👀 I’m interested in Java Backend programming and Native Android Development
+🌱 I’m currently learning RESTful API Using Springboot
+📫 Contact me at shubhamsatna9074@gmail.com or +91 9074644022
+
 <!--
 **shubhamsinghsatna/shubhamsinghsatna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
